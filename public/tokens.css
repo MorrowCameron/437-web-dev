@@ -1,0 +1,17 @@
+:root {
+  --color-background: #8FBC8F;
+  --color-navbar: #556B2F;
+  --color-text-accent: #6B8E23;
+  --color-background-accent: #EOFFFF;
+  --color-link: yellow;
+  --text-color: black;
+}
+
+.dark-mode {
+  --color-background: #102a43;
+  --color-navbar: #486581;
+  --color-text-accent: #f0f4f8;
+  --color-background-accent: #829ab1;
+  --color-link: #FFCC00;
+  --text-color: #bcccdc;
+}
